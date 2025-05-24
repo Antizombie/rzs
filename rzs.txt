@@ -1,0 +1,15 @@
+"rzs"
+{
+	"base"				"base"
+	"title"				"Russian Zombie Survival"
+	"maps"				"^zs_|^zm_|^zh_|^zps_|^zr_|^ze_"
+	"menusystem"		"1"
+
+	"author_name"		"Мяско :3"
+	"author_email"		"s.semenov@stasmesnik.ru"
+	"author_url"		"https://www.stasmesnik.ru/"
+
+	"settings"
+	{
+	}
+}
